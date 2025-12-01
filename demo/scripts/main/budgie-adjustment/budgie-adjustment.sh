@@ -9,8 +9,8 @@
 ##
 ## ## Link
 ##
-## * https://github.com/samwhelp/solus-budgie-adjustment/blob/main/demo/scripts/main/budgie-adjustment/budgie-adjustment.sh
-## * https://raw.githubusercontent.com/samwhelp/solus-budgie-adjustment/refs/heads/main/demo/scripts/main/budgie-adjustment/budgie-adjustment.sh
+## * https://github.com/samwhelp/budgie-adjustment/blob/main/demo/scripts/main/budgie-adjustment/budgie-adjustment.sh
+## * https://raw.githubusercontent.com/samwhelp/budgie-adjustment/refs/heads/main/demo/scripts/main/budgie-adjustment/budgie-adjustment.sh
 ##
 
 
