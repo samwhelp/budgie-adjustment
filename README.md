@@ -5,6 +5,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Budgie Desktop Adjustment](https://samwhelp.github.io/budgie-adjustment/) | [GitHub](https://github.com/samwhelp/budgie-adjustment) |
+| [Budgie Desktop Note](https://samwhelp.github.io/note-about-budgie/) | [GitHub](https://github.com/samwhelp/note-about-budgie) |
 
 
 
@@ -26,5 +27,12 @@
 | [Ubuntu Budgie Adjustment](https://samwhelp.github.io/ubuntu-budgie-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-budgie-adjustment) |
 | [Debian Budgie Adjustment](https://samwhelp.github.io/debian-budgie-adjustment/) | [GitHub](https://github.com/samwhelp/debian-budgie-adjustment) |
 | [Fedora Budgie Adjustment](https://samwhelp.github.io/fedora-budgie-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-budgie-adjustment) |
-| [Ubuntu Adjustment](https://samwhelp.github.io/ubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-adjustment) |
-| [Debian Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
+| [Archlinux Budgie Adjustment](https://samwhelp.github.io/archlinux-budgie-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-budgie-adjustment) |
+| [Solus Budgie Adjustment](https://samwhelp.github.io/solus-budgie-adjustment/) | [GitHub](https://github.com/samwhelp/solus-budgie-adjustment) |
+
+
+
+
+## Samwhelp
+
+* [GitHub](https://github.com/samwhelp)
